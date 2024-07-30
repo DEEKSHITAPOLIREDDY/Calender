@@ -1,0 +1,16 @@
+*{
+    background-color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+}
+.b{
+    color: blue;
+    background-color: darkorange;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 25px;
+}
+.tata{
+    font-size: 25px;
+    background-color: azure;
+}
